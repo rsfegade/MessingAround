@@ -4,5 +4,9 @@
     <string name="app_name">MessingAround</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="users_name_edit_text">Your Name</string>
+    <string name="string_yes">Yes</string>
+    <string name="string_no">No</string>
+    <string name="Happy_que">Are you Sure?</string>
 
 </resources>
